@@ -1,0 +1,24 @@
+{
+  "name": "mostwanted",
+  "version": "1.0.0",
+  "description": "Observation:  For the realization of this challenge I choose use the hashMap library. This is a very cool library to work with hashmap in javascript, also for the user input I use prompt. I am not a very good fan of using a lot of library but for this case I think this is the best chooice.",
+  "main": "index.js",
+  "dependencies": {
+    "hashmap": "^2.4.0",
+    "prompt": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TosoliniNico/mostWanted.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TosoliniNico/mostWanted/issues"
+  },
+  "homepage": "https://github.com/TosoliniNico/mostWanted#readme"
+}
